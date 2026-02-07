@@ -9,6 +9,18 @@ permalink: /
 .section{ padding:48px 0; }
 .lead{ font-size:1.05rem; line-height:1.6; max-width:80ch; }
 
+/* Title with icon */
+.title-with-icon{
+  display:flex;
+  align-items:baseline;
+  gap:14px;
+}
+.title-with-icon img{
+  height:1em;
+  width:auto;
+  vertical-align:baseline;
+}
+
 /* Research images */
 .research-images{
   display:flex;
@@ -57,6 +69,13 @@ permalink: /
 }
 .person a:hover{ text-decoration:underline; }
 
+/* Section header */
+.section-header{
+  font-size:1.4em;
+  font-weight:700;
+  margin:0 0 16px 0;
+}
+
 /* Banner link */
 .team-banner{
   text-align:center;
@@ -74,7 +93,7 @@ permalink: /
 </style>
 
 <section class="section">
-  
+
 <style>
   .lab-text a {
     color: #2f4a6d;
@@ -85,6 +104,12 @@ permalink: /
     text-decoration: underline;
   }
 </style>
+
+<!-- Custom title (keeps page title in front matter for SEO, shows this styled header on the page) -->
+<h1 class="page-title title-with-icon">
+  <span>Pan Lab - Haplodiploidy</span>
+  <img src="{{ '/assets/images/Ants-haplodiploidy.png' | relative_url }}" alt="Ants and haplodiploidy icon">
+</h1>
 
 <div class="lab-text">
 
@@ -102,39 +127,40 @@ permalink: /
 
   <p>We combine comparative genomics, population genetics, and functional experiments to dissect sex-determining pathways and reconstruct their evolutionary origins, with a particular emphasis on ants.</p>
 
-  <p>Our lab is based at the Max Planck Institute for Biology in Tübingen.  We collaborate closely with the Darras lab  at the <a href="https://evolution.zju.edu.cn/en/index.html">Centre for Evolutionary and Organismal Biology</a> at Zhejiang University through shared projects and resources.</p>
+  <p>Our lab is based at the Max Planck Institute for Biology in Tübingen. We collaborate closely with the Darras lab at the <a href="https://evolution.zju.edu.cn/en/index.html">Centre for Evolutionary and Organismal Biology</a> at Zhejiang University through shared projects and resources.</p>
 
 </div>
 
-
 <div style="height:40px;"></div>
 
-  <div class="people-grid">
-   
-    <div class="person">
-      <img class="avatar" src="{{ '/assets/images/miya-pan.png' | relative_url }}" alt="Miya Pan">
-      <div class="name">Qiaowei (Miya) Pan</div>
-      <div class="role">Principal Investigator</div>
-      <div><a href="mailto:qiaowei.pan@tuebingen.mpg.de">qiaowei.pan@tuebingen.mpg.de</a></div>
-    </div>
-    
-    <div class="person">
-      <img class="avatar" src="{{ '/assets/images/chuanxin.png' | relative_url }}" alt="Chuanxin Yu">
-      <div class="name">Chuanxin Yu</div>
-      <div class="role">PhD Student</div>
-      <div><a href="mailto:chuyu@uni-mainz.de">chuyu@uni-mainz.de</a></div>
-    </div>
+<h2 class="section-header">Lab members</h2>
 
-     <div class="person">
-      <img class="avatar" src="{{ '/assets/images/hugo-darras.png' | relative_url }}" alt="Hugo Darras">
-      <div class="name">Hugo Darras</div>
-      <div class="role"> Co-investigator</div>
-      <div><a href="mailto:hdarras@zju.edu.cn">hdarras@zju.edu.cn</a></div>
-    </div>
+<div class="people-grid">
 
+  <div class="person">
+    <img class="avatar" src="{{ '/assets/images/miya-pan.png' | relative_url }}" alt="Miya Pan">
+    <div class="name">Qiaowei (Miya) Pan</div>
+    <div class="role">Principal Investigator</div>
+    <div><a href="mailto:qiaowei.pan@tuebingen.mpg.de">qiaowei.pan@tuebingen.mpg.de</a></div>
   </div>
 
-  <div class="research-images" style="display:flex; gap:2%; justify-content:center; margin-top:70px;">
+  <div class="person">
+    <img class="avatar" src="{{ '/assets/images/chuanxin.png' | relative_url }}" alt="Chuanxin Yu">
+    <div class="name">Chuanxin Yu</div>
+    <div class="role">PhD Student</div>
+    <div><a href="mailto:chuyu@uni-mainz.de">chuyu@uni-mainz.de</a></div>
+  </div>
+
+  <div class="person">
+    <img class="avatar" src="{{ '/assets/images/hugo-darras.png' | relative_url }}" alt="Hugo Darras">
+    <div class="name">Hugo Darras</div>
+    <div class="role">Co-investigator</div>
+    <div><a href="mailto:hdarras@zju.edu.cn">hdarras@zju.edu.cn</a></div>
+  </div>
+
+</div>
+
+<div class="research-images" style="display:flex; gap:2%; justify-content:center; margin-top:70px;">
   <img src="{{ '/assets/images/6962841056_04bd7b4b6f_c.jpg' | relative_url }}" alt="Research image" style="width:21%; height:auto; object-fit:cover;">
   <img src="{{ '/assets/images/14831812109_248e71f584_c.jpg' | relative_url }}" alt="Research image" style="width:21%; height:auto; object-fit:cover;">
   <img src="{{ '/assets/images/7294863010_93d13923bb_c.jpg' | relative_url }}" alt="Research image" style="width:21%; height:auto; object-fit:cover;">
