@@ -23,7 +23,7 @@ permalink: /contact/
 
 </div>
 
-<div style="height:26px;"></div>
+<div style="height:34px;"></div>
 
 <h2 class="page-title" style="font-size: 0.85em;">Interested in joining us ?</h2>
 
