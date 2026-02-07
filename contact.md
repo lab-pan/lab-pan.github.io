@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact us
+title: Contact
 permalink: /contact/
 ---
 
@@ -32,7 +32,7 @@ permalink: /contact/
 
 <div style="height:34px;"></div>
 
-<h2 class="page-title" style="font-size: 1.6em;">
+<h2 class="page-title" style="font-size: 2em;">
   Interested in joining us ?
 </h2>
 
