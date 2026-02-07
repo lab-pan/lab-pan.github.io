@@ -12,7 +12,8 @@
   </div>
 
   <div class="contact-right">
-    <img src="{{ '/assets/images/MPI-Bio-Building.webp' | relative_url }}" alt="Max Planck Institute for Biology building">
+    <img src="{{ '/assets/images/MPI-Bio-Building.webp' | absolute_url }}"
+     alt="Max Planck Institute for Biology building">
   </div>
 
 </div>
