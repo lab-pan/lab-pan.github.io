@@ -88,9 +88,7 @@ permalink: /
 
 <div class="lab-text">
 
-  <p>Our lab studies how sex is determined at the molecular level and how sex-determining mechanisms evolve over time. Sex determination is the developmental process that directs an embryo to develop as female or male. We are interested in understanding both how these mechanisms operate in different species and why they are remarkably diverse and evolutionarily labile.</p>
-
-  <p>While we also work on sex chromosomes, our primary focus is on <strong>haplodiploid organisms</strong>, in which females develop from fertilized, diploid eggs (2n) and males develop from unfertilized, haploid eggs (1n). Haplodiploidy has evolved repeatedly from ancestors with chromosomal sex determination, yet the molecular and developmental changes underlying this transition remain poorly understood.</p>
+  <p>Our lab studies how sex is determined at the molecular level and how sex-determining mechanisms evolve over time. Sex determination is the developmental process that directs an embryo to develop as female or male. We are interested in understanding both how these mechanisms operate in different species and why they are remarkably diverse and evolutionarily labile.While we also work on sex chromosomes, our primary focus is on haplodiploid organisms, in which females develop from fertilized, diploid eggs (2n) and males develop from unfertilized, haploid eggs (1n). Haplodiploidy has evolved repeatedly from ancestors with chromosomal sex determination, yet the molecular and developmental changes underlying this transition remain poorly understood.</p>
 
   <p>Using multiple haplodiploid model species, we investigate how sex is specified during early development, from gamete formation to the first cell fate decisions. We ask how alternative sex-determining pathways are established, how they interact with genome architecture, and how novel mechanisms emerge and spread through populations.</p>
 
