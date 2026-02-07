@@ -6,7 +6,7 @@ permalink: /contact/
 
 <div style="height:36px;"></div>
 
-<div class="contact-layout">
+<div class="contact-layout" style="display:flex; align-items:flex-end; gap:2rem;">
 
   <div class="contact-left">
     <p>
