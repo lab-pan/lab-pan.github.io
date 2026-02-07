@@ -25,7 +25,7 @@ permalink: /contact/
 
 <div style="height:34px;"></div>
 
-<h2 class="page-title" style="font-size: 0.85em;">Interested in joining us ?</h2>
+<h2 class="page-title" style="font-size: 1.6em;">Interested in joining us ?</h2>
 
 <p>
 We are recruiting at multiple levels for BSc and MSc theses, PhD projects, and research assistant positions (bioinformatics, wet lab, and insect work).
