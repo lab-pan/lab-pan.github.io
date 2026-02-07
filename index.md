@@ -104,7 +104,7 @@ permalink: /
 
   <p>We combine comparative genomics, population genetics, and functional experiments to dissect sex-determining pathways and reconstruct their evolutionary origins, with a particular emphasis on ants.</p>
 
-  <p>Our lab is based at the <a href="https://evolution.zju.edu.cn/en/index.html">Centre for Evolutionary and Organismal Biology</a> at Zhejiang University. We collaborate closely with the Pan Lab (<a href="https://www.phd.tuebingen.mpg.de/36499/Qiaowei-_Miya_-Pan">Insect sex determination and development</a>) at the Max Planck Institute for Biology in Tübingen through shared projects and resources.</p>
+  <p>Our lab is based at the Max Planck Institute for Biology in Tübingen.  We collaborate closely with the Darras lab  at the <a href="https://evolution.zju.edu.cn/en/index.html">Centre for Evolutionary and Organismal Biology</a> at Zhejiang University through shared projects and resources.</p>
 
 </div>
 
