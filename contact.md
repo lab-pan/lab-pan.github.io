@@ -37,7 +37,7 @@ permalink: /contact/
 </h2>
 
 <style>
-  /* Fix live-site CSS that may be forcing <strong> onto new lines */
+  /* Ensure bold text stays inline on the live site */
   .join-us strong{
     display:inline !important;
     font-weight:700;
@@ -48,9 +48,26 @@ permalink: /contact/
 </style>
 
 <div class="join-us">
-  <p>We are always happy to hear from <strong>motivated Master’s students</strong>, including those interested in <strong>summer internships or MSc thesis projects</strong>. If you are curious about our work and think the lab could be a good fit, please feel free to get in touch. Let us know what made you curious about our research.</p>
 
-  <p>For prospective <strong>PhD students</strong>, note that a “currently not recruiting” status on Miya’s IMPRS faculty page (<a href="https://www.phd.tuebingen.mpg.de/36499/Qiaowei-_Miya_-Pan">link</a>) simply reflects the timing of the annual institute-wide recruitment round and does <strong>not</strong> mean that the lab is closed to PhD recruitment. If you are interested in joining the group, please write directly to Miya with a brief description of your background, your motivation for joining the lab, and your research interests. You are also welcome to inquire about <strong>current or upcoming PhD opportunities</strong> and <strong>available projects</strong>.</p>
+  <p>
+  We are always happy to hear from <strong>motivated Master’s students</strong>, including those interested in <strong>summer internships or MSc thesis projects</strong>. If you are curious about our work and think the lab could be a good fit, please feel free to get in touch. Let us know what made you curious about our research.
+  </p>
 
-  <p>For <strong>postdoctoral candidates</strong>, please contact us with a short description of your research interests, relevant experience, and how your work would connect to the lab’s research directions.</p>
+  <p>
+  For prospective <strong>PhD students</strong>, note that a “currently not recruiting” status on Miya’s IMPRS faculty page
+  (<a href="https://www.phd.tuebingen.mpg.de/36499/Qiaowei-_Miya_-Pan">link</a>)
+  simply reflects the timing of the annual institute-wide recruitment round and does <strong>not</strong> mean that the lab is closed to PhD recruitment. If you are interested in joining the group, please write directly to Miya with a brief description of your background, your motivation for joining the lab, and your research interests. You are also welcome to inquire about <strong>current or upcoming PhD opportunities</strong> and <strong>available projects</strong>.
+  </p>
+
+  <p>
+  For <strong>postdoctoral candidates</strong>, please contact us with a short description of your research interests, relevant experience, and how your work would connect to the lab’s research directions.
+  </p>
+
 </div>
+
+<!-- Ant lab illustration at the very end -->
+<div style="height:60px;"></div>
+
+<img src="/assets/images/ant lab.png"
+     alt="Cartoon ants working in a molecular biology lab"
+     style="display:block; max-width:700px; width:100%; height:auto; margin:0 auto 40px auto;">
