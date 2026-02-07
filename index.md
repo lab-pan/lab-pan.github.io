@@ -37,8 +37,8 @@ permalink: /
 }
 .person{ text-align:center; }
 .avatar{
-  width:132px;   /* was 110px, now 1.2x */
-  height:132px;  /* was 110px, now 1.2x */
+  width:198px;   /* 1.5x of 132px */
+  height:198px;  /* 1.5x of 132px */
   object-fit:cover;
   border-radius:50%;
   box-shadow:0 4px 10px rgba(0,0,0,0.10);
@@ -64,24 +64,19 @@ permalink: /
   margin:0 0 16px 0;
 }
 
-/* Banner link */
-.team-banner{
-  text-align:center;
-  margin-top:50px;
-}
-.team-banner a{
-  font-size:1rem;
-  color:#0066cc;
-  text-decoration:none;
-}
-.team-banner a:hover{
-  color:#004999;
-  text-decoration:underline;
+/* Subtitle under main title */
+.page-subtitle{
+  margin-top:10px;
+  font-size:1.25rem;
+  font-weight:500;
+  opacity:0.85;
 }
 </style>
 
 <section class="section">
-  
+
+<div class="page-subtitle">Sex determination &amp; Developmental innovation</div>
+
 <style>
   .lab-text a {
     color: #2f4a6d;
@@ -118,19 +113,19 @@ permalink: /
 <h2 class="section-header">Lab members</h2>
 
 <div class="people-grid">
- 
+
   <div class="person">
     <img class="avatar" src="{{ '/assets/images/miya-pan.png' | relative_url }}" alt="Miya Pan">
     <div class="name">Qiaowei (Miya) Pan</div>
     <div class="role">Principal Investigator</div>
     <div><a href="mailto:qiaowei.pan@tuebingen.mpg.de">qiaowei.pan@tuebingen.mpg.de</a></div>
   </div>
-  
+
   <div class="person">
     <img class="avatar" src="{{ '/assets/images/chuanxin.png' | relative_url }}" alt="Chuanxin Yu">
     <div class="name">Chuanxin Yu</div>
     <div class="role">PhD Student</div>
-    <div><a href="mailto:chuyu@uni-mainz.de">chuyu@uni-mainz.de</a></div>
+    <div><a href="mailto:chuanxin.yu@tuebingen.mpg.de">chuanxin.yu@tuebingen.mpg.de</a></div>
   </div>
 
   <div class="person">
