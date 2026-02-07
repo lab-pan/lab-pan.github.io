@@ -1,0 +1,73 @@
+.lab-text {
+  max-width: 58ch;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+p {
+  text-align: justify;
+}
+
+/* Container for content */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+}
+
+/* Header */
+.site-header {
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* subtle header shadow */
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-inner {
+  max-width: 960px;   /* keep nav + logo centered */
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-img {
+  height: 48px;
+  width: auto;
+}
+
+/* Navigation */
+nav a {
+  font-size: 1.15em;  
+  color: #333;                 /* clean dark gray */
+  text-decoration: none;       /* no underline */
+  margin: 0 12px;              /* spacing between items */
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+nav a:hover {
+  opacity: 0.7;  /* subtle fade */
+}
+
+/* Active link highlight (optional) */
+.site-nav a.active {
+  color: #000;
+  font-weight: bold;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid #ddd;
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 0.9rem;
+  color: #666;
+}
