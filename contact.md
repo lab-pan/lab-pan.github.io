@@ -37,5 +37,9 @@ permalink: /contact/
 </h2>
 
 <p>
-We are recruiting at multiple levels for BSc and MSc theses, PhD projects, and research assistant positions (bioinformatics, wet lab, and insect work).
+We are always happy to hear from **motivated Master’s students**, including those interested in summer internships or MSc thesis projects. If you are curious about our work and think the lab could be a good fit, please feel free to get in touch. Let us know what made you curious about our research!
+
+For prospective **PhD students**, note that a “currently not recruiting” status on Miya’s IMPRS faculty page (https://www.phd.tuebingen.mpg.de/36499/Qiaowei-_Miya_-Pan) simply means the timing of the annual institute-wide recruitment round. It does **not** mean that the lab is closed to PhD recruitment. If you are interested in joining the group, please write directly to Miya with a brief description of your background, your motivation for joining the lab, and your research interests. You are also welcome to inquire about current or upcoming PhD opportunities and available projects.
+
+For **postdoctoral candidates**, please contact us with a short description of your research interests, relevant experience, and how your work would connect to the lab’s research directions.
 </p>
