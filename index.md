@@ -138,14 +138,14 @@ permalink: /
 
   <div class="person">
     <img class="avatar" src="{{ '/assets/images/miya-pan.png' | relative_url }}" alt="Miya Pan">
-    <div class="name">Qiaowei (Miya) Pan | 潘乔维 </div>
+    <div class="name">Qiaowei (Miya) Pan  |  潘乔维 </div>
     <div class="role">Principal Investigator</div>
     <div><a href="mailto:qiaowei.pan@tuebingen.mpg.de">qiaowei.pan@tuebingen.mpg.de</a></div>
   </div>
 
   <div class="person">
     <img class="avatar" src="{{ '/assets/images/chuanxin.png' | relative_url }}" alt="Chuanxin Yu">
-    <div class="name">Chuanxin Yu ｜ 余传鑫</div>
+    <div class="name">Chuanxin Yu  ｜  余传鑫</div>
     <div class="role">PhD Student</div>
     <div><a href="mailto:chuanxin.yu@tuebingen.mpg.de">chuanxin.yu@tuebingen.mpg.de</a></div>
   </div>
