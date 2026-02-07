@@ -37,9 +37,15 @@ permalink: /contact/
 </h2>
 
 <p>
-We are always happy to hear from **motivated Master’s students**, including those interested in summer internships or MSc thesis projects. If you are curious about our work and think the lab could be a good fit, please feel free to get in touch. Let us know what made you curious about our research!
+We are always happy to hear from <strong>motivated Master’s students</strong>, including those interested in <strong>summer internships or MSc thesis projects</strong>. If you are curious about our work and think the lab could be a good fit, please feel free to get in touch. Let us know what made you curious about our research!
+</p>
 
-For prospective **PhD students**, note that a “currently not recruiting” status on Miya’s IMPRS faculty page (https://www.phd.tuebingen.mpg.de/36499/Qiaowei-_Miya_-Pan) simply means the timing of the annual institute-wide recruitment round. It does **not** mean that the lab is closed to PhD recruitment. If you are interested in joining the group, please write directly to Miya with a brief description of your background, your motivation for joining the lab, and your research interests. You are also welcome to inquire about current or upcoming PhD opportunities and available projects.
+<p>
+For prospective <strong>PhD students</strong>, note that a “currently not recruiting” status on Miya’s IMPRS faculty page
+(<a href="https://www.phd.tuebingen.mpg.de/36499/Qiaowei-_Miya_-Pan">link</a>)
+simply reflects the timing of the annual institute-wide recruitment round. It does <strong>not</strong> mean that the lab is closed to PhD recruitment. If you are interested in joining the group, please write directly to Miya with a brief description of your background, your motivation for joining the lab, and your research interests. You are also welcome to inquire about <strong>current or upcoming PhD opportunities</strong> and <strong>available projects</strong>.
+</p>
 
-For **postdoctoral candidates**, please contact us with a short description of your research interests, relevant experience, and how your work would connect to the lab’s research directions.
+<p>
+For <strong>postdoctoral candidates</strong>, please contact us with a short description of your research interests, relevant experience, and how your work would connect to the lab’s research directions.
 </p>
