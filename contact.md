@@ -10,11 +10,10 @@ permalink: /contact/
 
   <div class="contact-left">
     <p>
-      <b>Hugo Darras</b><br>
-      Zhejiang University<br>
-      Centre for Evolutionary &amp; Organismal Biology<br>
-      Hangzhou, China<br>
-      <a href="mailto:hdarras@zju.edu.cn">hdarras@zju.edu.cn</a>
+      <b>Miya Qiaowei Pan</b><br>
+       Max Planck Institute for Biology<br>
+      Tübingen, Germany<br>
+      <a href="mailto:qiaowei.pan@tuebingen.mpg.de">qiaowei.pan@tuebingen.mpg.de</a>
     </p>
 
     <div class="wechat-qr">
