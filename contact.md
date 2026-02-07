@@ -6,10 +6,10 @@ permalink: /contact/
 
 <div style="height:36px;"></div>
 
-<div class="contact-layout" style="display:flex; align-items:flex-end; gap:2rem;">
+<div class="contact-layout" style="display:flex; gap:2rem; align-items:stretch;">
 
-  <div class="contact-left">
-    <p>
+  <div class="contact-left" style="flex:1; display:flex; flex-direction:column;">
+    <p style="margin:0 0 14px 0;">
       <b>Qiaowei "Miya" Pan</b><br>
       Max Planck Institute for Biology<br>
       Max Planck Ring, 5<br>
@@ -19,13 +19,13 @@ permalink: /contact/
 
     <img src="/assets/images/Map_MPI_entrance.png"
          alt="Map of MPI Biology entrance"
-         style="width:100%; height:auto; margin-top:14px;">
+         style="width:100%; height:auto; margin-top:auto; display:block;">
   </div>
 
-  <div class="contact-right">
+  <div class="contact-right" style="flex:1; display:flex; flex-direction:column;">
     <img src="/assets/images/MPI-Bio-Building.webp"
          alt="Max Planck Institute for Biology building"
-         style="width:100%; height:auto;">
+         style="width:100%; height:auto; margin-top:auto; display:block;">
   </div>
 
 </div>
