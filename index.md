@@ -131,11 +131,11 @@ permalink: /
   <img src="{{ '/assets/images/1.jpg' | relative_url }}" alt="">
 </div>
 
-<div style="height:54px;"></div>
+<div style="height:84px;"></div>
 
 <h2 id="people" class="page-title" style="font-size: 2em;">Lab members</h2>
 
-<div style="height:38px;"></div>
+<div style="height:28px;"></div>
 
 <div class="people-grid">
 
