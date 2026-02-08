@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Pan Lab - Haplodiploidy
+title: Pan Lab - Haplodiploidy sex determination & Developmental innovation
+
 permalink: /
 ---
 
@@ -84,9 +85,6 @@ permalink: /
 
 <section class="section">
 
-<div class="page-subtitle">
-  Sex determination &amp; Developmental innovation
-</div>
 
 <style>
   .lab-text a {
