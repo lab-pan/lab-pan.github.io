@@ -44,11 +44,9 @@ permalink: /
 /* People */
 .people-grid{
   display:grid;
-  grid-template-columns:repeat(4, minmax(0,1fr));
+  grid-template-columns:repeat(3, minmax(0,1fr));
   gap:22px;
   margin-top:28px;
-  justify-items:center;
-
 }
 @media (max-width:1050px){
   .people-grid{ grid-template-columns:repeat(3,1fr); }
