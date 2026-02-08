@@ -125,10 +125,14 @@ permalink: /
 </div>
 
 <!-- Illustration above Lab members -->
-<img
-  src="{{ '/assets/images/Ants-haplodiploidy.png' | relative_url }}"
-  alt="Ant haplodiploidy illustration"
-  class="section-illustration">
+
+<div class="research-images" style="margin-top:70px;">
+  <img src="{{ '/assets/images/Ants-haplodiploidy.png' | relative_url }}" alt="">
+  <img src="{{ '/assets/images/2.jpg' | relative_url }}" alt="">
+  <img src="{{ '/assets/images/1.jpg' | relative_url }}" alt="">
+  <img src="{{ '/assets/images/3.jpg' | relative_url }}" alt="">
+</div>
+
 
 <h2 class="section-header">Lab members</h2>
 
@@ -157,11 +161,6 @@ permalink: /
 
 </div>
 
-<div class="research-images" style="margin-top:70px;">
-  <img src="{{ '/assets/images/6962841056_04bd7b4b6f_c.jpg' | relative_url }}" alt="">
-  <img src="{{ '/assets/images/14831812109_248e71f584_c.jpg' | relative_url }}" alt="">
-  <img src="{{ '/assets/images/7294863010_93d13923bb_c.jpg' | relative_url }}" alt="">
-  <img src="{{ '/assets/images/4837265100_7ff68cd6f6_c.jpg' | relative_url }}" alt="">
-</div>
+
 
 </section>
