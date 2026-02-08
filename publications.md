@@ -44,8 +44,9 @@ permalink: /publications/
   </li>
 
   <img src="{{ '/assets/images/pnas_cover.jpeg' | relative_url }}"
-       alt="PNAS cover image"
-       class="pub-cover">
+     alt="PNAS cover image"
+     class="pub-cover"
+     style="max-height:250px; width:auto; display:block;">
 
   <li>
     Zimmer F., Fox A.M., <strong>Pan Q.</strong>, Rühle F., Andersen P.,
