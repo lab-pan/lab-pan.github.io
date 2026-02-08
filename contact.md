@@ -16,20 +16,17 @@ permalink: /contact/
       Tübingen, Germany<br>
       <a href="mailto:qiaowei.pan@tuebingen.mpg.de">qiaowei.pan@tuebingen.mpg.de</a>
     </p>
-         <img src="/assets/images/Map_MPI_entrance.png"
-     alt="Map of MPI Biology entrance"
-     style="width:100%; height:240px; object-fit:contain; margin-top:auto; display:block;">
-html
-Copy code
 
   </div>
 
-  <div class="contact-right" style="flex:1; display:flex; flex-direction:column;">
-<img src="/assets/images/MPI-Bio-Building.webp"
-     alt="Max Planck Institute for Biology building"
-     style="width:100%; height:240px; object-fit:contain; margin-top:auto; display:block;">
-
-  </div>
+ <div class="contact-images" style="display:flex; gap:1rem; margin-top:auto;">
+      <img src="/assets/images/Map_MPI_entrance.png"
+           alt="Map of MPI Biology entrance"
+           style="width:50%; height:auto; display:block;">
+      <img src="/assets/images/MPI-Bio-Building.webp"
+           alt="Max Planck Institute for Biology building"
+           style="width:50%; height:auto; display:block;">
+    </div>
 
 </div>
 
