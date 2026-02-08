@@ -133,7 +133,10 @@ permalink: /
 
 <div style="height:54px;"></div>
 
-<h2 id="people" class="section-header">Lab members</h2>
+#<h2 id="people" class="section-header">Lab members</h2>
+<h2 id="people" class="page-title" style="font-size: 2em;">Lab members</h2>
+
+<div style="height:38px;"></div>
 
 <div class="people-grid">
 
