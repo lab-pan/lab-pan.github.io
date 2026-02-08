@@ -134,7 +134,7 @@ permalink: /
 </div>
 
 
-<h2 class="section-header">Lab members</h2>
+<h2 id="people" class="section-header">Lab members</h2>
 
 <div class="people-grid">
 
