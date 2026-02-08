@@ -133,6 +133,7 @@ permalink: /
   <img src="{{ '/assets/images/3.jpg' | relative_url }}" alt="">
 </div>
 
+<div style="height:54px;"></div>
 
 <h2 id="people" class="section-header">Lab members</h2>
 
