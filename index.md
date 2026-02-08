@@ -127,8 +127,8 @@ permalink: /
 <div class="research-images" style="margin-top:40px;">
   <img src="{{ '/assets/images/Ants-haplodiploidy.png' | relative_url }}" alt="">
   <img src="{{ '/assets/images/2.jpg' | relative_url }}" alt="">
-  <img src="{{ '/assets/images/1.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/images/3.jpg' | relative_url }}" alt="">
+  <img src="{{ '/assets/images/1.jpg' | relative_url }}" alt="">
 </div>
 
 <div style="height:54px;"></div>
