@@ -35,7 +35,7 @@ permalink: /contact/
 <h2 class="page-title" style="font-size: 2em;">
   Interested in joining us ?
 </h2>
-<div style="height:36px;"></div>
+<div style="height:28px;"></div>
 <style>
   /* Ensure bold text stays inline on the live site */
   .join-us strong{
