@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pan Lab - Haplodiploidy sex determination & Developmental innovation
+title: Pan Lab - Sex determination & developmental innovations
 
 permalink: /
 ---
