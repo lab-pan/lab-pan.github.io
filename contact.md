@@ -20,14 +20,10 @@ permalink: /contact/
   </div>
 
  <div class="contact-images" style="display:flex; gap:1rem; margin-top:auto;">
- <a href="/assets/images/Map_MPI_entrance.png"
-   target="_blank"
-   style="display:block;">
   <img src="/assets/images/Map_MPI_entrance.png"
        alt="Map of MPI Biology entrance"
        style="width:50%; height:auto; display:block; cursor:zoom-in;">
-</a>
-      <img src="/assets/images/MPI-Bio-Building.webp"
+  <img src="/assets/images/MPI-Bio-Building.webp"
            alt="Max Planck Institute for Biology building"
            style="width:50%; height:auto; display:block;">
     </div>
