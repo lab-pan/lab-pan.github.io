@@ -147,6 +147,26 @@ permalink: /
   </div>
 
   <div class="person">
+    <img class="avatar" src="{{ '/assets/images/ellie.png' | relative_url }}" alt="Ellie Gibbs">
+    <div class="name">Ellie Gibbs</div>
+    <div class="role">Assistant</div>
+    <div><a href="mailto:qiaowei.pan@tuebingen.mpg.de">qiaowei.pan@tuebingen.mpg.de</a></div>
+
+  </div>
+
+  <div class="person">
+    <img class="avatar" src="{{ '/assets/images/keshav.png' | relative_url }}" alt="Keshav Gajendra Babu">
+    <div class="name">Keshav Gajendra Babu</div>
+    <div class="role">Lab Manager</div>
+  </div>
+
+  <div class="person">
+    <img class="avatar" src="{{ '/assets/images/sunheng.png' | relative_url }}" alt="Sunheng Yon">
+    <div class="name">Sunheng Yon</div>
+    <div class="role">Insect Technician</div>
+  </div>
+
+  <div class="person">
     <img class="avatar" src="{{ '/assets/images/chuanxin.png' | relative_url }}" alt="Chuanxin Yu">
     <div class="name">Chuanxin Yu  ｜  余传鑫</div>
     <div class="role">PhD Student</div>
@@ -156,12 +176,11 @@ permalink: /
   <div class="person">
     <img class="avatar" src="{{ '/assets/images/hugo-darras.png' | relative_url }}" alt="Hugo Darras">
     <div class="name">Hugo Darras</div>
-    <div class="role">Co-investigator</div>
+    <div class="role">Visiting collaborator</div>
     <div><a href="mailto:hdarras@zju.edu.cn">hdarras@zju.edu.cn</a></div>
   </div>
 
 </div>
-
 
 
 </section>
