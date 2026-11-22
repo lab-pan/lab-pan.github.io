@@ -173,6 +173,20 @@ permalink: /
     <div><a href="mailto:chuanxin.yu@tuebingen.mpg.de">chuanxin.yu@tuebingen.mpg.de</a></div>
   </div>
 
+<div class="person">
+  <img class="avatar" src="/assets/images/natalia.jpg" alt="Natalia Hyjek">
+  <div class="name">Natalia Hyjek</div>
+  <div class="role">PhD Student</div>
+  <a href="mailto:natalia.hyjek@tuebingen.mpg.de">natalia.hyjek@tuebingen.mpg.de</a>
+</div>
+
+<div class="person">
+  <img class="avatar" src="/assets/images/simen.jpg" alt="Simen Mannsåker">
+  <div class="name">Simen Mannsåker</div>
+  <div class="role">PhD Student</div>
+  <a href="mailto:simen.mannsaker@tuebingen.mpg.de">simen.mannsaker@tuebingen.mpg.de</a>
+</div>
+
   <div class="person">
     <img class="avatar" src="{{ '/assets/images/hugo-darras.png' | relative_url }}" alt="Hugo Darras">
     <div class="name">Hugo Darras</div>
